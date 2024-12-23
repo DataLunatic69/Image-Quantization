@@ -1,5 +1,5 @@
 
-# Image Quantization with KMeans, DBSCAN, and Hierarchical Clustering
+# Image Quantization/Compression with KMeans, DBSCAN, and Hierarchical Clustering
 
 This project implements an interactive application for image quantization using three clustering algorithms: **KMeans**, **DBSCAN**, and **Hierarchical Clustering**. The application is built using [Gradio](https://gradio.app/) for a user-friendly interface and supports real-time clustering-based image quantization.
 
@@ -31,8 +31,8 @@ pip install gradio numpy Pillow scikit-learn
 
 ### Step 1: Clone the Repository
 ```bash
-git clone <repository_url>
-cd <repository_directory>
+git clone <[repository_url](https://github.com/DataLunatic69/Image-Quantization.git)>
+cd <Image Quantization>
 ```
 
 ### Step 2: Install Dependencies
@@ -43,7 +43,7 @@ pip install -r requirements.txt
 ### Step 3: Run the Application
 Run the Python script:
 ```bash
-python <script_name>.py
+python <Image_quantization>.py
 ```
 
 ### Step 4: Use the Application
